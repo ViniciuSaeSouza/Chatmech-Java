@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="914df7c3-bc29-4f7d-ac83-ce350b6812f6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Diagramas/DAO_MODEL-sp4.asta" beforeDir="false" afterPath="$PROJECT_DIR$/../Diagramas/DAO_MODEL-sp4.asta" afterDir="false" />
-    </list>
+    <list default="true" id="914df7c3-bc29-4f7d-ac83-ce350b6812f6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +21,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///chatmechv4-effective-pom.xml" root0="SKIP_INSPECTION" />
@@ -47,7 +46,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/labsfiap/Documents/GitHub/Domain-Driven-Design-Java/Challenge/sprint04/chatmechv4",
+    "last_opened_file_path": "C:/Users/Saes/Desktop/HelpcarJava-main/SPRINT4",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -103,5 +102,29 @@
       <updated>1729723044277</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/chatmech/Resources/MecanicaResources.java</url>
+          <line>16</line>
+          <properties class="br.com.chatmech.Resources.MecanicaResources" method="buscaTodos">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/chatmech/Services/MecanicaService.java</url>
+          <line>12</line>
+          <properties class="br.com.chatmech.Services.MecanicaService" method="buscarTodos">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -76,5 +76,4 @@ public class CadastroResources {
              return Response.status(Response.Status.INTERNAL_SERVER_ERROR).entity("Falha ao atualizar a senha no Servidor...").build();
          }
     }
-
 }
